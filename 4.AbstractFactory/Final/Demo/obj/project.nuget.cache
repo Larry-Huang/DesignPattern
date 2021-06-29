@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "lkVoIJsoZ7b3Zu0WaaXw9OgYZuqceabY+pzEMoms827vQ1tzNFoodUDEdCeuztOVZbB31uEdu1RWJsFNismAHg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\JerryHuang\\Desktop\\DesignPattern範例\\4.AbstractFactory\\Final\\Demo\\Demo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JerryHuang\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\JerryHuang\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\JerryHuang\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\JerryHuang\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
